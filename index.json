@@ -1,0 +1,48 @@
+{
+  "basics":{
+  "photo":"download.png",
+  "name":"K.Nanda",
+  "phone":"9399949048",
+  "email":"knkr9566@gmail.com"
+},
+"skills":[
+{
+"name":"programming languages",
+"value":"C,C++,JAVA"
+},
+{
+"name":"operating Systems",
+"value":"windows,linux"
+},
+{
+  "name":"web technologies",
+  "value":"html,css"
+}
+],
+"education":[
+  {
+    "course":"b-tech(computer science and engineering)",
+    "college":[
+      "sri venkateshwara institute of technology",
+      "2015-2019",
+      "65%"
+    ]
+  },
+{
+  "course":"inter(mpc)",
+  "college":[
+    "narayana junior college",
+    "2013-2015",
+    "90%"
+  ]
+},
+{
+  "course":"ssc",
+  "college":[
+    "anantapur talent em hs",
+    "2012-2013",
+    "80%"
+  ]
+}
+]
+}
